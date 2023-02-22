@@ -1,6 +1,6 @@
 # Meal Application
 
-![screenshot](./src/assets/screenshot.png)
+![screenshot](./src/screenshot.png)
 
 ## Available Scripts
 
